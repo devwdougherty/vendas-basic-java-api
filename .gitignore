@@ -4,5 +4,7 @@
 ### Java-Web ###
 ## ignoring target file
 target/
+*.target
+*.idea
 
 # End of https://www.gitignore.io/api/java-web
