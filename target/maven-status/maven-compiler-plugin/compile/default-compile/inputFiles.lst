@@ -1,0 +1,14 @@
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/repositories/ItemRepository.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/entities/Item.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/entities/Produto.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/repositories/ProdutoRepository.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/utils/DatabaseSeeder.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/services/VendasService.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/repositories/VendaRepository.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/controllers/ProdutosController.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/entities/Cliente.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/AwVendasApiApplication.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/entities/Venda.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/controllers/ClientesController.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/repositories/ClienteRepository.java
+/home/devwdougherty/Development/vendas-basic-api/src/main/java/com/devwdougherty/awvendasapi/controllers/VendasController.java
